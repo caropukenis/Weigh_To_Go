@@ -1,8 +1,8 @@
 # Weigh to Go!
-https://floating-plains-73189.herokuapp.com/
+[Website Link](https://floating-plains-73189.herokuapp.com/)
 
 ## Demonstration
-![Readme Image](https://github.com/reganmurray22/Project2/blob/main/public/images/calories.gif)
+![Readme Image](https://github.com/caropukenis/Weigh_To_Go/blob/main/public/images/calories.gif)
 
 ## Description
 Weigh to Go is a food tracker and weight loss calculator to help people achieve their goal weight in a healthy and effective manner. They can enter their daily caolorie intake and update their weight in their profile as they go along their weight loss journey. 
