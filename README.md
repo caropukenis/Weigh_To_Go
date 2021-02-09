@@ -1,5 +1,5 @@
 # Weigh to Go!
-[Website Link](https://floating-plains-73189.herokuapp.com/)
+[Website Link](https://caroline-wtg-44.herokuapp.com/)
 
 ## Demonstration
 ![Readme Image](https://github.com/caropukenis/Weigh_To_Go/blob/main/public/images/calories.gif)
